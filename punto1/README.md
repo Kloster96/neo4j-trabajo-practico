@@ -75,6 +75,11 @@ Este es el grafo resultante después de ejecutar el modelo:
 <div align="center">
   <img src="grafo.png" alt="Grafo generado" width="800"/>
 </div>
+ 
+🗺️ Visualización del grafo
+```cypher
+MATCH (n)-[r]->(m) RETURN n, r, m;
+```
 
 ### 👨‍💻 Autor
 Luciano Kloster
