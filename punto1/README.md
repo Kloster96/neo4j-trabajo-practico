@@ -78,5 +78,5 @@ Este es el grafo resultante después de ejecutar el modelo:
 
 ### 👨‍💻 Autor
 Luciano Kloster
-Trabajo realizado para la materia de Bases de Datos con Grafos - Neo4j
+Trabajo realizado para la materia de Bases de Datos 2 - Neo4j
 UTN - 2025
