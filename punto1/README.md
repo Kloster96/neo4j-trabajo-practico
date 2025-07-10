@@ -20,7 +20,7 @@ Se modelan empleados, departamentos y proyectos, incluyendo relaciones jerárqui
 |----------------------|--------------------------------------------------------------|
 | `modelo.cypher`      | Contiene la creación de nodos y relaciones del grafo.        |
 | `consultas.cypher`   | Incluye las consultas requeridas por el ejercicio.           |
-| `grafo_ejercicio1.png`| Imagen exportada desde Neo4j con el grafo generado.         |
+| `grafo.png`| Imagen exportada desde Neo4j con el grafo generado.         |
 
 ---
 
