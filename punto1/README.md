@@ -73,7 +73,7 @@ RETURN e.nombre AS Empleado, proyectos;
 
 Este es el grafo resultante después de ejecutar el modelo:
 <div align="center">
-  <img src="grafo.png" alt="Grafo generado" width="500"/>
+  <img src="grafo.png" alt="Grafo generado" width="800"/>
 </div>
 
 ### 👨‍💻 Autor
